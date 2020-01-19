@@ -1,0 +1,9 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc",
+    "markingMode": "none"
+  },
+  "main": "main",
+  "name": "second-test",
+  "version": "1.0.0"
+}
