@@ -24,3 +24,9 @@ tns preview
 # or
 tns run
 ```
+
+## 建立 apk
+*  要先設置好上面的環境安裝: https://docs.nativescript.org/start/ns-setup-win#system-requirements
+``` bash
+tns build android
+```
